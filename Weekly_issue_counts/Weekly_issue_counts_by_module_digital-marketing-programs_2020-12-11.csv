@@ -1,0 +1,93 @@
+,year,week,modules,cnt
+0,2020,20, dm-branding,2
+1,2020,20, dm-campaigns,1
+2,2020,20, dm-careers-networking,1
+3,2020,20, dm-content,2
+4,2020,21, dm-branding,1
+5,2020,21, dm-campaigns,2
+6,2020,21, dm-customer-insights,3
+7,2020,21, dm-overview,2
+8,2020,22, dm-branding,2
+9,2020,22, dm-content,1
+10,2020,22, dm-email-marketing,1
+11,2020,22, dm-overview,7
+12,2020,22, dm-social-media,1
+13,2020,23, dm-analytics,2
+14,2020,23, dm-branding,1
+15,2020,23, dm-content,2
+16,2020,23, dm-overview,1
+17,2020,24, dm-analytics,1
+18,2020,24, dm-branding,1
+19,2020,25, dm-careers-networking,2
+20,2020,25, dm-content,2
+21,2020,26, dm-search,1
+22,2020,28, dm-careers-interviewing,1
+23,2020,28, dm-customer-insights,1
+24,2020,28, dm-overview,3
+25,2020,29, dm-portfolio,1
+26,2020,29, dm-search,1
+27,2020,30, dm-campaigns,1
+28,2020,31, dm-analytics,1
+29,2020,31, dm-campaigns,1
+30,2020,31,mational interview assignment instructions.,1
+31,2020,33, dm-email-marketing,2
+32,2020,34, dm-branding,1
+33,2020,35, dm-campaigns,1
+34,2020,36, dm-overview,1
+35,2020,37, dm-analytics,1
+36,2020,37, dm-customer-insights,2
+37,2020,37,matting.,5
+38,2020,38, dm-branding,1
+39,2020,38, dm-campaigns,1
+40,2020,38, dm-customer-insights,1
+41,2020,38, dm-overview,1
+42,2020,39, dm-branding,2
+43,2020,39, dm-customer-insights,1
+44,2020,40, dm-content,1
+45,2020,40, dm-customer-insights,1
+46,2020,40,matting.,1
+47,2020,41, dm-customer-insights,1
+48,2020,41, dm-search,1
+49,2020,42, dm-campaigns,1
+50,2020,43, dm-customer-insights,1
+51,2020,43,mational and interview assignments.,1
+52,2020,44, dm-analytics,1
+53,2020,44, dm-campaigns,2
+54,2020,44, dm-careers-networking,1
+55,2020,44, dm-customer-insights,3
+56,2020,45, dm-content,1
+57,2020,46, dm-branding,2
+58,2020,46, dm-campaigns,1
+59,2020,46, dm-content,2
+60,2020,46, dm-customer-insights,1
+61,2020,46, dm-immersion-orientation,3
+62,2020,47, dm-careers-personal-branding,5
+63,2020,47, dm-customer-insights,1
+64,2020,47, dm-imm-ornt,5
+65,2020,47, dm-overview,2
+66,2020,47, dm-search,1
+67,2020,47, dm-social-media,4
+68,2020,47, imm ornt,1
+69,2020,48, dm-analytics,2
+70,2020,48, dm-branding,1
+71,2020,48, dm-email-marketing,2
+72,2020,48, dm-graduation,1
+73,2020,48, dm-imm-ornt,7
+74,2020,48, dm-social-media,2
+75,2020,49, dm-analytics,1
+76,2020,49, dm-careers-interview,1
+77,2020,49, dm-customer-insights,1
+78,2020,49, dm-imm-ornt,7
+79,2020,49, dm-immersion-orientation,1
+80,2020,49, dm-overview,1
+81,2020,49, dm-portfolio,1
+82,2020,49, dm-search,1
+83,2020,49, dm-social-media,1
+84,2020,49, full prep course,1
+85,2020,49, prep course,2
+86,2020,50, dm prep course,1
+87,2020,50, dm-analytics,2
+88,2020,50, dm-careers-job-searching,1
+89,2020,50, dm-content,1
+90,2020,50, dm-customer-insights,1
+91,2020,50,matting.,1

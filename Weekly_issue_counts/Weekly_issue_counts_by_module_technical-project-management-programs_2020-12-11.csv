@@ -1,0 +1,54 @@
+,year,week,modules,cnt
+0,2020,24, tpm-project-life-cycle,2
+1,2020,25, tpm-project-life-cycle,2
+2,2020,25, tpm-systems-development-life-cycle,1
+3,2020,26, tpm-immersion-orientation,1
+4,2020,26, tpm-project-life-cycle,1
+5,2020,27, tpm-systems-development-life-cycle,1
+6,2020,28, tpm-business-process,1
+7,2020,30, tpm-project-life-cycle,1
+8,2020,31, tpm-overview,5
+9,2020,31, tpm-project-life-cycle,1
+10,2020,31, tpm-systems-development-life-cycle,1
+11,2020,32, tpm-business-process,5
+12,2020,32, tpm-conflict-management,5
+13,2020,32, tpm-emotional-intelligence-and-communication,5
+14,2020,32, tpm-project-life-cycle,2
+15,2020,32, tpm-stakeholder-management,16
+16,2020,32, tpm-systems-development-life-cycle,4
+17,2020,33, tpm-capstone-1,1
+18,2020,33, tpm-leadership,2
+19,2020,33, tpm-project-life-cycle,1
+20,2020,34, tpm-business-process,1
+21,2020,35, tpm-emotional-intelligence-and-communication,2
+22,2020,36, tpm-leadership,1
+23,2020,36, tpm-project-life-cycle,3
+24,2020,36, tpm-stakeholder-management,1
+25,2020,37, tpm-business-process,2
+26,2020,37, tpm-capstone-1,1
+27,2020,37, tpm-project-life-cycle,1
+28,2020,38, tpm-business-process,1
+29,2020,38, tpm-it-management,1
+30,2020,38, tpm-the-world-of-programming,4
+31,2020,39, tpm-leadership,1
+32,2020,39, tpm-systems-development-life-cycle,1
+33,2020,39, tpm-the-world-of-programming,3
+34,2020,40, tpm-business-process,2
+35,2020,40, tpm-capstone-1,1
+36,2020,40, tpm-conflict-management,3
+37,2020,40, tpm-it-management,8
+38,2020,41, tpm-capstone-1,2
+39,2020,43, tpm-emotional-intelligence-and-communication,1
+40,2020,45, tpm-it-management,1
+41,2020,46, system dev lc,1
+42,2020,46, tpm-business-process,1
+43,2020,46, tpm-project-life-cycle,2
+44,2020,46, tpm-stakeholder-management,1
+45,2020,47, tpm-business-process,1
+46,2020,47, tpm-capstone-1,1
+47,2020,47, tpm-it-management,1
+48,2020,47, tpm-mock-interview-role,1
+49,2020,47, tpm-the-world-of-programming,2
+50,2020,49, prep course,2
+51,2020,50, prep assessment,1
+52,2020,50, prep orientation,1
